@@ -27,6 +27,7 @@ Full-stack engineer and indie maker. Currently Lead Product Engineer at [Lightwo
 | [@novu/react](https://github.com/novuhq/novu) | React components for building notification experiences |
 | [time-travel](https://github.com/BiswaViraj/time-travel) | Lightweight undo/redo state management for JS/TS — history navigation, introspection, [React adapter](https://www.npmjs.com/package/@biswaviraj/time-travel), [docs](https://biswaviraj.github.io/time-travel/) |
 | [cc-setup](https://github.com/BiswaViraj/cc-setup) | Define your preferred Claude Code tools once, add them to any project with one command |
+| [hour.zone](https://hour.zone) | Shareable timezone comparison — paste a link into Slack and everyone sees the same meeting slot |
 
 ### What I'm Working On
 
