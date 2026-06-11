@@ -27,7 +27,7 @@ Full-stack engineer and indie maker. Currently Lead Product Engineer at [Lightwo
 | [@novu/react](https://github.com/novuhq/novu) | React components for building notification experiences |
 | [hexbench](https://hexbench.app) | A fast, private developer toolbox that runs entirely in your browser — nothing you paste ever leaves the page |
 | [miny](https://miny.in) | Share links, files, or code snippets — briefly or forever, with built-in expiry |
-| [Bracket Wars](https://bracketwars.app) | Mobile-first sports bracket prediction game — call the upsets, climb the rankings |
+| [Bracket Wars](https://bracketwars.app) | Mobile-first sports bracket prediction game: Outsmart the crowd. Climb the world. |
 | [agent-skills](https://github.com/BiswaViraj/agent-skills) | Portable agent skills — reviewloop, ciloop, standup — for Claude Code, Copilot CLI, Codex & Cursor, from one source |
 | [engineview](https://github.com/BiswaViraj/engineview) | Self-hosted dashboards and a SQL runner for Cloudflare Analytics Engine |
 | [time-travel](https://github.com/BiswaViraj/time-travel) | Lightweight undo/redo state management for JS/TS — history navigation, introspection, [React adapter](https://www.npmjs.com/package/@biswaviraj/time-travel), [docs](https://biswaviraj.github.io/time-travel/) |
